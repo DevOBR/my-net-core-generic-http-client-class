@@ -1,0 +1,7 @@
+C:\www\pruebas\dotnetApplications\ConsoleApp1\GenericHttpClient\bin\Debug\GenericHttpClient.dll
+C:\www\pruebas\dotnetApplications\ConsoleApp1\GenericHttpClient\bin\Debug\GenericHttpClient.pdb
+C:\www\pruebas\dotnetApplications\ConsoleApp1\GenericHttpClient\bin\Debug\Newtonsoft.Json.dll
+C:\www\pruebas\dotnetApplications\ConsoleApp1\GenericHttpClient\bin\Debug\Newtonsoft.Json.xml
+C:\www\pruebas\dotnetApplications\ConsoleApp1\GenericHttpClient\obj\Debug\GenericHttpClient.csprojResolveAssemblyReference.cache
+C:\www\pruebas\dotnetApplications\ConsoleApp1\GenericHttpClient\obj\Debug\GenericHttpClient.dll
+C:\www\pruebas\dotnetApplications\ConsoleApp1\GenericHttpClient\obj\Debug\GenericHttpClient.pdb
