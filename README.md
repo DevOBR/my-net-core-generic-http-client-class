@@ -33,7 +33,7 @@
 </pre>
 
 
-<h3>Get<<YourObject>>(....) : Response </h3>
+<h3>Get<< YourObject >>(....) : Response </h3>
 <p>With this method you can request just one response object by get method.</p>
 <p>
   <small>
