@@ -33,7 +33,7 @@
 </pre>
 
 
-<h3>Get<T>(....) : Response </h3>
+<h3>Get<<YourObject>>(....) : Response </h3>
 <p>With this method you can request just one response object by get method.</p>
 <p>
   <small>
@@ -43,7 +43,7 @@
 <h4>Sample</h4>
 <pre>
   var obj = new HttpService();
-  var response = obj.Get<YourObject>(
+  var response = obj.Get<<YourObject>>(
       "http://my.url.com",
       "/api/",
       "controllerSample"
