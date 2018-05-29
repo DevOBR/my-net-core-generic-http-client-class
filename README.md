@@ -43,7 +43,7 @@
 <h4>Sample</h4>
 <pre>
   var obj = new HttpService();
-  var response = obj.Get<<YourObject>>(
+  var response = obj.Get<< YourObject >>(
       "http://my.url.com",
       "/api/",
       "controllerSample"
